@@ -1,0 +1,28 @@
+{
+  "name": "Creators-Platform-Backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MasterCourse-Bangladesh/Creators-Platform-Backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MasterCourse-Bangladesh/Creators-Platform-Backend/issues"
+  },
+  "homepage": "https://github.com/MasterCourse-Bangladesh/Creators-Platform-Backend#readme"
+}

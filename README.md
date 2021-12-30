@@ -1,1 +1,1 @@
-# Creators-Platform-Backend
+# MasterCourse Creators' Platform Backend
